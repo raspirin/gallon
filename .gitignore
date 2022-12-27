@@ -1,5 +1,7 @@
 \target
 \build
+\.cargo
+\bin
 
 *~
 
