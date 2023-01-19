@@ -9,3 +9,4 @@ edition = "2021"
 [dependencies]
 clap = { version = "4.0.29", features = ["cargo"] }
 reqwest = { version = "0.11.13", features = ["blocking"]}
+decompress = "0.2.0"
